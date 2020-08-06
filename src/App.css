@@ -1,0 +1,15 @@
+.container {
+  margin-top: 10px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.menu-spacing {
+  padding: 0 1rem 0 1rem;
+}
+
+.navbar-brand {
+  padding: 0 1.2rem 0 1.2rem;
+}
