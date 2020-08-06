@@ -10,7 +10,11 @@ function App() {
       <div className="container">
         <h4>
           Just make sure that you really want to hide the cursor because it can
-          be really annoying. (UX good practices 😃)
+          be really annoying. (UX good practices{" "}
+          <span role="img" aria-label="Smile Emoji">
+            >😃
+          </span>
+          )
         </h4>
       </div>
     </React.Fragment>

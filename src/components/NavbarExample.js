@@ -8,14 +8,14 @@ const NavbarExample = () => {
           <ul className="nav">
             <li class="navbar-brand">Navbar</li>
             <li className="dropdown ">
-              <a href="#">Home</a>
+              <a href="/">Home</a>
             </li>
             <li className="dropdown menu-spacing">
-              <a href="#">Example</a>
+              <a href="/">Example</a>
             </li>
             <li className="dropdown ">
               <a
-                href="#"
+                href="/"
                 className="dropdown-toggle"
                 style={{ cursor: "none" }}
                 data-toggle="dropdown"
@@ -24,13 +24,13 @@ const NavbarExample = () => {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="#">Github</a>
+                  <a href="/">Github</a>
                 </li>
                 <li>
-                  <a href="#">Linkedin</a>
+                  <a href="/">Linkedin</a>
                 </li>
                 <li>
-                  <a href="#">Stack Overflow</a>
+                  <a href="/">Stack Overflow</a>
                 </li>
               </ul>
             </li>
